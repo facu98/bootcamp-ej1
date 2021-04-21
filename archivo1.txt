@@ -1,1 +1,2 @@
-archivo 1-tiene que generar conflicto esta linea
+aarchivo 1-tiene que generar conflicto esta linea
+nueva linea sin conflicto
